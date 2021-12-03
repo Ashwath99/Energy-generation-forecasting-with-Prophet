@@ -28,3 +28,7 @@ The Jupyter Notebook contains the following steps:
  8. Cross validation
  9. Complete training, testing and evaluation
 10. Comparison
+
+<br>**Learning Outcome:**<br><br>
+This project demonstrates the limited capability of the Prophet model in fitting data with minimal seasonal effects or trends. This is seen through the initial less-than-desired accuracy in forecasting as well as the lack of improvement even after hyperparameter tuning.<br><br>
+It is possible that the accuracy may improve to a slight extent with a certain combination of hyperparameters but the difference will most likely be very negligible unless clear seasonal or holiday effects are present and extracted from the data.
